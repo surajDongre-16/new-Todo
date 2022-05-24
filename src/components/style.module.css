@@ -1,0 +1,66 @@
+.box{
+    border: 1px solid ;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+.input_box{
+    font-size: 25px;
+    background-color: rgb(207, 229, 249);
+    border: none;
+    color: purple;
+    padding-left: 3%;
+    border-radius: 10px 0px 0px 10px;
+    outline: none;
+
+}
+.btn{
+    font-size: 25px;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    padding-right: 2%;
+    background-color: black;
+    color: white;
+}
+.add{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    padding: 5px 20px;
+    
+}
+
+.checkbox{
+    height: 30px;
+    width: 30px;
+}
+.delete{
+    font-size: 15px;
+    padding: 2px 3px;
+    background-color: rgb(207, 229, 249);
+    cursor: pointer;
+}
+.complete{
+    margin-top: 5%;
+    font-size: 20px;
+    background-color:rgb(207, 229, 249);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+.comp{
+    text-decoration: line-through;
+    width: 100%;
+}
+.bottom{
+    margin-bottom: 5%;
+}
+.back{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+
+}
